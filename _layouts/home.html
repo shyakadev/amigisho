@@ -1,0 +1,15 @@
+---
+layout: default
+title: Ibyigisho biyobora Abakuze kwiga Bibiliya
+---
+
+<h2>Ibyigisho</h2>
+<div class="home">
+<div class="post-list">
+{% for post in site.posts %}
+<a style="text-decoration" href="{{post.url | prepend: site.baseurl }}">
+{% include post-cards.html %}
+</a>
+{% endfor %}
+</div>
+</div>

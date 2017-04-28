@@ -1,0 +1,39 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %} 
+<body>
+<div class="container">
+
+ {% include sidebar.html %}
+
+ <div id="main">
+ 	{% include header.html %}
+ 		<div class="page-content">
+ 		<div class="wrapper">
+ 		{{content}}
+ 		</div>
+ 		{% include footer.html %}
+ 		</div>
+ 		{% if site.analytics %}
+ 			{% include analytics.html %}
+
+ 		{% endif %}
+ 		</div>
+
+
+ 		<script>
+ 			function openNav() {
+ 				document.getElementById('Sidenav').style.width = "250px";
+ 				document.getElementById("Sidenav").style.width = "0";
+
+ 			}
+ 		</script>
+ 		 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+  <script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+ 		</div>
+ 		</body>
+ 		</html>

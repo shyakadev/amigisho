@@ -1,0 +1,17 @@
+---
+layout: default
+title: Umurinzi wo mu Ruturuturu
+---
+<h1 class="page-title">Umurinzi wo mu Ruturuturu</h1>
+
+{% for post in site.posts.categories.umurinzi %}
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="..." alt="Card image cap">
+    <div class="card-block">
+      <h4 class="card-title">{{post.title}}</h4>
+      <p class="card-text">{{post.description}}</p>
+      {% endfor %}
+    </div>
+  </div>
+  </div>
