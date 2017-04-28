@@ -1,10 +1,10 @@
 language: ruby
 rvm:
  -2.4.0
- cache: bundler
- install:
+cache: bundler
+install:
  - bundle install
- script:
+script:
  -bundle exec jekyll build --safe -t
 branhes:
  only:
