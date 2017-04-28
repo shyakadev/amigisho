@@ -12,4 +12,4 @@ branhes:
  -/^deploy-.*$/
 env:
  global:
-    secure: c2254cb9b6e9dfff993a7ded37ce6a7e06cca9f8
+    secure:c2254cb9b6e9dfff993a7ded37ce6a7e06cca9f8
