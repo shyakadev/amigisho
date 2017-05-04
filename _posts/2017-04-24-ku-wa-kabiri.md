@@ -2,7 +2,7 @@
 layout: post
 title: "Ku wa Kabiri | Kubabarizwa Mu Mubiri"
 date: 2017-04-24 00:01:28
-categories: Kuwakabiri
+categories: Kabiri
 description: Ni byo Yesu yapfuye azize ibyaha byacu, kandi ibyiringiro by’agakiza kacu bibonerwa muri we gusa no mu gukiranuka kwe, bikadutwikira kandi bigatuma tugaragara nk’abakiranutsi mu maso y’Imana. Kubera Yesu, “mwemerwa imbere y’Imana nk’abataracumuye”.—Ellen G. White, Steps to Christ, p. 62.
 ---
 

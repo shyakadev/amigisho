@@ -2,14 +2,17 @@
 layout: post
 title: "Ku wa Mbere | Guhuza Umutima"
 date: 2017-04-23 00:01:28 +0200
-categories: Kuwambere
+categories: Mbere
 description: Soma amagambo ari mu 1 Petero 3:8–12. Mbese icyo Petero avuga ku birebana n’uburyo Abakristo bagomba kubaho ni iki? Icyo agarukaho yanditseho mu 1 Petero 2:20, 21 ni ikihe?
 ---
 
 <p class="umunsi">KU WA MBERE, 23 MATA IGICE CYA BIBILIYA: IMIGANI 24</p>
 
 <p align="center"> GUHUZA UMUTIMA </p>
+<div ng-controller="Myctrl">
+<p ng-bind="name"></p>
 
+</div>
 Soma amagambo ari mu 1 Petero 3:8–12. Mbese icyo Petero avuga ku birebana n’uburyo Abakristo bagomba kubaho ni iki? Icyo agarukaho yanditseho mu 1 Petero 2:20, 21 ni ikihe?
 
 Petero atangira abasaba “guhuza umutima” bose (homophrones). Ntabwo avuga ko bagomba kumera kimwe, ku buryo buri wese agomba gutekereza, gukora no kwemera nk’uko mugenzi we abikora. Urugero rusumba izindi rw’iki gitekerezo ruboneka mu 1 Abakorinto 12:1–26, muri iyi mirongo Pawulo avuga ko  umubiri ugizwe n’ingingo nyinshi, amaboko n’amaso ariko na none itorero rigizwe n’abantu bafite impano za Mwuka zitandukanye zikorera hamwe kugira ngo habeho abagize itorero bafite ubumwe.

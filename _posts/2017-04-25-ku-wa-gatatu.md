@@ -2,7 +2,7 @@
 layout: post
 title: "Ku wa Gatatu | Kuvuka ubwa Kabiri"
 date: 2017-04-25 00:01:28
-categories: Kuwagatatu
+categories: Gatatu
 description: Dufite ubugingo bushya muri Kristo, intangiriro nshya. Twavutse ubwa kabiri. Niba ibyo hari icyo bivuze, by’umwihariko ku bamaze kwemera Kristo bamaze gukura, bigomba kuba bivuze ko bazagira imibereho itandukanye n’iyo bari basanganwe mbere. Ni nde utarigeze yumva iby’abantu bahoze ari ab’isi bahuye na byo bikomeye barangiza bagahinduka bidasubirwaho babitewe na Yesu n’ubuntu bwe bukiza? 
 ---
 

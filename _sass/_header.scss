@@ -1,7 +1,7 @@
 /**
  * Site header
  */
-.site-header {
+site-header {
     min-height: 270px;
     background: $brand-color; /* fallback for old browsers */
     background: -webkit-linear-gradient(120deg, $brand-color , $brand-color-2); /* Chrome 10-25, Safari 5.1-6 */
@@ -81,17 +81,23 @@
         border-right:none;
     }
 }
+.intro {
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 0%;
+    color: white;
+}
 
 .menu-category {
     text-align: center;
-    padding-top: 40%;
+    padding-top: 10%;
 }
 
 .menu-item a{
-    color: #eee;
+    color: white;
     text-decoration: none;
     &:hover{
-        color: $text-color;
+        color: #198b9b;
     }
 }
 

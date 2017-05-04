@@ -2,7 +2,7 @@
 layout: post
 title: "Ku wa Gatandatu"
 date: 2017-04-28 00:01:28
-categories: Kuwagatandatu
+categories: Gatandatu
 description: "Urukundo rwihangana kandi rugira neza ntirukabya kutagira ibanga ry’icyaha kitababariwe, cyangwa ngo rwamamaze ibibi abandi bakoze. Ibyanditswe byera byigisha mu buryo bweruye ko abayoba bakwiriye kwihanganirwa kandi bakitabwaho. Inzira ikwiriye niramuka ikurikijwe, bishobora gutuma wa mutima usa n’udashoboka ugarukira Kristo. Urukundo rwa Yesu rutwikira ibyaha byinshi. Ubuntu bwe ntibujya bwigera bwerekeza ku gushyira ku karubanda ibibi by’abandi, keretse bibaye ngombwa kandi ikiribuvemo ari cyiza”. Ellen G. White," 
 ---
 

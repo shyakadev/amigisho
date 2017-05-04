@@ -2,7 +2,7 @@
 layout: post
 title: "Ku wa Gatanu | URUKUNDO RUTWIKIRA BYOSE"
 date: 2017-04-27 00:01:28
-categories: Kuwagatanu
+categories: Gatanu
 description: No mu gihe cya Petero, Abakristo b’icyo gihe bahoraga biteze Yesu ugiye kugaruka vuba n’iherezo ry’iyi si 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Icyigisho cya 5 | Kubaho nkuko Imana ishaka"
 date: 2017-04-22 00:01:28
-categories: ku_Isabato
+categories: Isabato
 description: Kuko amaso y’Uwiteka ari ku bakiranutsi, N’amatwi ye ari ku byo basaba.  Ariko igitsūre cy’Uwiteka kiri ku nkozi z’ibibi. (1 Petero 3:12).
 ---
  <p class="umunsi"> KU ISABATO NIMUGOROBA, 22 MATA IGICE CYA BIBILIYA:<button class="imirongo">IMIGANI 23</button></p>
