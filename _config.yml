@@ -30,7 +30,7 @@ paginate_path: /page:num/
 sass: 
   style: compressed 
 #comments 
-disqus-shortname:
+disqus-shortname: 
 #tracker
 analytics: UA-98552781-1
 
