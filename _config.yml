@@ -32,7 +32,7 @@ sass:
 #comments 
 disqus-shortname:
 #tracker
-analytics:
+analytics: UA-98552781-1
 
 # Post date background
 change-date-bg: no 
