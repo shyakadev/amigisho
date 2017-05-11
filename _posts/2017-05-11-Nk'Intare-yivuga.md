@@ -4,6 +4,7 @@ title: "Nk'Intare Yivuga"
 date: 2017-05-11 00:01:28
 categories: Gatanu
 description: Igitabo cy’Ibyahishuwe kitubwira ko Abakristo bafite uruhare mu ntambara y’isi n’ijuru iri hagati y’imbaraga z’icyiza n’imbaraga z’ikibi. Mu gitabo cy’Ibyahishuwe, imbaraga z’icyiza ziyobowe na Yesu, we Jambo w’Imana,
+comments: true
 ---
 
 <h2 align="center">KU WA GATANU, 11 GICURASI</h2>
