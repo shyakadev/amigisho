@@ -26,6 +26,11 @@ github_username:  shyakadev
 paginate: 3
 paginate_path: /page:num/
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: amigisho-1
+
 #CSS
 sass: 
   style: compressed 
