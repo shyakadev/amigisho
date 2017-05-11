@@ -18,7 +18,7 @@ layout: compress
 
  		<!-- end of the test -->
  		{{content}}
-    {%page.comments %}
+    {% if page.comments %}
             {% include disqus.html %}
     {% endif %}
  		</div>
