@@ -25,4 +25,4 @@ Ongera usome amagambo ari mu 1 Petero 5:10.
 
 Nubwo tutazi neza imiterere nyayo y’ibigeragezo bahuye na byo, icyo dushobora kubona ni ibyiringiro Petero agaragaza.  Ni koko sekibi ariho. Urugamba ruriho, kandi n’imibabaro yacu nayo iriho. Ariko “Imana y’ubuntu bwose” yatsinze umubi. Bityo rero, imibabaro twahura nayo yose, nidukomeza tukizera tukageza no kugupfa (Abaheburayo 11:13–16)—twiringiye insinzi dukesha Yesu.
 
-Ni mu buhe buryo dushobora gukomeza ukwizera kwacu, tugakomeza kwihangana kugeza ku iherezo, tutitaye ku byo twahura na byo muri uru rugendo rwacu?
+<p class="ikibazo">Ni mu buhe buryo dushobora gukomeza ukwizera kwacu, tugakomeza kwihangana kugeza ku iherezo, tutitaye ku byo twahura na byo muri uru rugendo rwacu?</p>
