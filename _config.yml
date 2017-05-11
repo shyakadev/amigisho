@@ -52,6 +52,7 @@ gems:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-angular
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
