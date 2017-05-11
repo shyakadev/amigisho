@@ -20,7 +20,8 @@ Igitabo cy’Ibyahishuwe kitubwira ko Abakristo bafite uruhare mu ntambara y’i
 Petero ntabwo apfobya akaga sekibi ahagarariye. Umubi ameze nk’intare yivuga ishaka uwo yaconcomera (1 Petero5:8). 
 
 Petero abwira abasoma ibyo yanditse ko bashobora kubona imbaraga za sekibi mu mibabaro ubwabo bahura nayo. Ariko, iyo mibabaro izagira iherezo mu cyubahiro cy’iteka ryose (1 Petero5:10).
-Ongera usome amagambo ari mu 1 Petero 5:10.  <p class="ikibazo">Ni iki Petero atubwira  ahangaha?</p>
+Ongera usome amagambo ari mu 1 Petero 5:10.  
+<p class="ikibazo">Ni iki Petero atubwira  ahangaha?</p>
 
 Nubwo tutazi neza imiterere nyayo y’ibigeragezo bahuye na byo, icyo dushobora kubona ni ibyiringiro Petero agaragaza.  Ni koko sekibi ariho. Urugamba ruriho, kandi n’imibabaro yacu nayo iriho. Ariko “Imana y’ubuntu bwose” yatsinze umubi. Bityo rero, imibabaro twahura nayo yose, nidukomeza tukizera tukageza no kugupfa (Abaheburayo 11:13–16)—twiringiye insinzi dukesha Yesu.
 
