@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ibindi byo kwigwa no kuzirikanwa"
+title: "Gahunda yo kugarura icya cumi no gutanga amaturo"
 date: 2017-05-13 00:01:28
 categories: Isabato
 description: Kandi mu isi hamwe na hamwe hazaba ibishyitsi bikomeye, kandi hazabaho inzara n’ibyorezo by’indwara. Hazabaho n’ibitera ubwoba, n’ibimenyetso bikomeye biva mu ijuru. Tuzi neza ko ibirushya biriho muri iki gihe ari ibimenyetso byo kugaruka kwa Yesu kwegereje.
