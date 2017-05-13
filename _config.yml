@@ -16,7 +16,7 @@
 title: Amigisho
 email: amigisho@gmail.com
 description:  # this means to ignore newlines until "baseurl:"
-  Igitabo Gifasha abakuze kwiga Bibiliya cyizwi nk'Amigisho mu Itorero
+  Ibyigisho by'ishuri ryo ku Isabato biyobora abakuze kwiga Bibiliya mu Itorero
   ry'Abadventist b'umunsi wa Karindwi.
 baseurl: "/amigisho" # the subpath of your site, e.g. /blog
 permalink: :title/
